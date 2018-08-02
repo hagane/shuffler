@@ -42,10 +42,13 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-#
+#IDE and build files
 .svn
 *.iml
 .idea
+/build
+/gradle
+/.gradle
 shuffler.jar
 out
 out/**
